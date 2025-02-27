@@ -14,7 +14,6 @@ I am a full-stack developer with a focus on **MERN stack** and **.NET** technolo
 - **Tools**: Git, Docker, CI/CD
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shehzzy)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzzy&layout=compact)
 
 ## Philosophy:
 I approach software development with a focus on clarity, simplicity, and long-term sustainability. I believe in writing code that is maintainable and scalable, always keeping performance in mind.
