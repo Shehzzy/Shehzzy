@@ -1,4 +1,4 @@
-# Hello, I'm Shehzzy
+# Hellooooo
 
 I am a full-stack developer with a focus on **MERN stack** and **.NET** technologies. My goal is to build clean, efficient, and scalable applications while adhering to best practices.
 
